@@ -29,7 +29,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "App project React is our project",
-    "githubUrl": "https://github.com/new"
+    "description": "App project React is our project"
   }
 }
